@@ -1,5 +1,0 @@
-# ERL Documents
-ERL/
-
-# USAEE
-USAEE/
